@@ -1,0 +1,14 @@
+div.my-container {
+  display: block;
+  clear: both;
+  margin-bottom: 20px;
+  font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Edu SA Beginner', cursive;
+font-family: 'Handlee', cursive;
+}
+*{
+  margin:0 auto;
+  padding:0 auto;
+  background-color: rgb(61, 10, 18);
+}
